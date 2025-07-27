@@ -361,7 +361,7 @@ For support and questions:
 
 ## 🔄 Version History
 
-### v1.1.0 (Current)
+### v1.2.1 (Current)
 - Initial release
 - Multi-language support
 - Album-based audio player
